@@ -1,0 +1,12 @@
+{
+  "name": "dino_run_adventure",
+  "uuid": "0a1522c4-f2c4-40ba-8e31-98fa82b267c5",
+  "creator": {
+    "version": "3.7.2"
+  },
+  "dependencies": {
+    "@onechaintech/gamesdk": "^0.0.35",
+    "@onechaintech/gamesdk-beta": "^0.0.18",
+    "@onechaintech/gamesdk-dev": "^0.0.35"
+  }
+}
